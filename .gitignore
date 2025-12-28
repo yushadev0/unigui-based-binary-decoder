@@ -1,0 +1,34 @@
+# Delphi / UniGUI
+
+# Compiled units
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.lib
+*.o
+
+# Delphi IDE
+__history/
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.stat
+
+# Build folders
+Win32/
+Win64/
+Android/
+iOS/
+
+# UniGUI temp / cache
+*.map
+*.rsm
+*.tds
+*.log
+
+# Backup files
+*.~*
+*.bak
